@@ -1,0 +1,21 @@
+// get 
+//http://localhost:3000/api/users
+
+//login (search)
+//http://localhost:3000/api/users/ali/439888
+
+//register (post)
+//http://localhost:3000/api/users/
+// {
+//     "email":"noman",
+//     "password":"87464459684ajds",
+//      "phone":8927198732,
+//      "name":"mujahid"
+// }
+
+// put (update)
+// //http://localhost:3000/api/users/
+// {
+//     "name":"noman",
+//     "password":"439888"
+// }
